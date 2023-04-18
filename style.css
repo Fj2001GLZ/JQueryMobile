@@ -1,0 +1,8 @@
+
+.parrafo{
+    font-size: 2em;
+    color: blue;
+}
+.parrafo:hover::first-letter{
+    color: red;
+}
